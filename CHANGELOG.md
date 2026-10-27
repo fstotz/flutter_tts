@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Support AGP 9 built-in Kotlin while retaining legacy KGP and Apple packaging support.
+
 ### Features
 
 - **iOS/macOS:** Add Swift Package Manager package manifests to support Flutter's SPM integration.
