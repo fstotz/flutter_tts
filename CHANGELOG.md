@@ -2,7 +2,9 @@
 
 ## Unreleased
 
-- Support AGP 9 built-in Kotlin while retaining legacy KGP and Apple packaging support.
+- Remove standalone KGP application and legacy compiler options; use built-in Kotlin with a JVM 11 target.
+- Require Flutter 3.44 / Dart 3.12 or newer; the migrated Android example requires Flutter 3.47.
+- Preserve Swift Package Manager and CocoaPods support.
 
 ### Features
 
